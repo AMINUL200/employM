@@ -3,7 +3,7 @@ import React from 'react'
 const Dashboard = () => {
   return (
     <div>
-      <h2 className='text-center'>Welcome Admin Panel</h2>
+      <h2 className='text-center text-3xl mt-5'>Welcome Admin Panel</h2>
     </div>
   )
 }
